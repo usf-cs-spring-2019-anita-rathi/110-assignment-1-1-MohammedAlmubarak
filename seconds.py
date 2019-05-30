@@ -1,4 +1,4 @@
-time=float(input("input number of seconds: "))
+time=int(input("input number of seconds: "))
 
 day=time/(24*3600)
 time=time%(24*3600)
